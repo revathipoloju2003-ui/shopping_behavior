@@ -22,6 +22,13 @@ amount, payment methods, and review ratings.
 
 ------------------------------------------------------------------------
 
+
+
+
+<img width="1345" height="745" alt="Dashboard1" src="https://github.com/user-attachments/assets/c2fb0a54-13bb-4d3d-92ac-b72cdb50ff32" />
+
+
+
 ## 📊 Dashboards Created
 
 ### 🔹 Dashboard 1: Customer Overview
@@ -34,6 +41,10 @@ Distribution (Bar Chart) - Customers by Location (Map) - Category Wise
 Purchases
 
 ------------------------------------------------------------------------
+
+
+
+<img width="1321" height="742" alt="Dashboard2" src="https://github.com/user-attachments/assets/af9fb407-e68c-42d0-b901-5fdb122511c9" />
 
 ### 🔹 Dashboard 2: Purchasing Insights
 
